@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changed in 2nd 
+=======
+2nd time changing 
+>>>>>>> bike
